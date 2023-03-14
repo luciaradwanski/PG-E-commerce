@@ -1,8 +1,10 @@
-# proyecto-final
+# Final Proyect
 PROYECTO FINAL : COMPUTER STORE
 "Un e-commerce dedicado a el área de computación"
 
-Stack de Tecnologias
+
+
+💥 Stack de Tecnologias
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -17,7 +19,7 @@ Stack de Tecnologias
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 </div>
 
-Grupo de Trabajo:
+💻 Grupo de Trabajo:
 
 
 <table class="tg">
@@ -73,7 +75,7 @@ Grupo de Trabajo:
 </table>
 
 
-Deploy
+✨ Deploy
 
 <table class="tg" style="undefined;table-layout: fixed; width: 678px">
 <colgroup>
@@ -129,3 +131,118 @@ Deploy
   </tr>
 </tbody>
 </table>
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+
+
+🤔 Qué es?
+
+<hr>
+
+Es una aplicación web creada como proyecto grupal para el bootcamp Henry. El objetivo era crear una aplicación fullstack que no trae datos de una API, sino que se crean los productos a través del Form(CreateProducts) y los almacene en una base de datos.
+
+💥 Objetivos del Proyecto
+
+<hr>
+
+✅ Buscar Productos de Computación y realizar la compra de los mismos vía Mercado Pago
+
+✅ Filtrar y Ordenar Productos por Tipo, por Marca, y por Precio
+
+✅ Carga de Productos en el Carrito
+
+✅ Crear nuevos Productos
+
+✅ Detalle de cada Producto
+
+✅ Perfil de Usuario y lista de Productos comprados con éxito
+
+✅ Perfil de Admin, solo el Admin puede crear Productos
+
+✅ Lista de productos por su stock y precio
+
+
+🧱 Cuál fue el stack tecnológico?
+
+<hr>
+
+Estas son las tecnologías que usé para crear el proyecto completo:
+
+✨ Node JS
+
+✨ React
+
+✨ Redux
+
+✨ Javascript
+
+✨ HTML
+
+✨ CSS
+
+✨ Express
+
+✨ PostgreSQL
+
+✨ Sequelize
+
+✨ Mercado Pago
+
+✨ Ant Design
+
+✨ Bootstrap
+
+✨ Cloudinary
+
+✨ Axios
+
+✨ Cors
+
+🌟 Requisitos para ejecutarla localmente 
+
+<hr>
+
+1. Instalar PostreSQL
+2. Crear una base de datos con el nombre "countries"
+3. Dentro de /api creen un archivo .env con sus credenciales, como se muestra a continuación:
+
+DB_USER=usuariodepostgres
+DB_PASSWORD=passwordDePostgres
+DB_HOST=localhost
+API_KEY=yourApiKey
+CLOUDINARY_CLOUD_NAME=nombreEnCloudinary
+CLOUDINARY_API_SECRET=apiSecret
+CLOUDINARY_API_KEY=keyCloudinary
+
+
+Reemplazar usuariodepostgres y passwordDePostgres con tus propias credenciales para conectarte a postgres. Además, se deben reemplazar nombreEnCloudinary, apiSecret y keyCloudinary 
+
+🚧 Instalación
+
+<hr>
+
+Utilice el administrador de paquetes npm para instalar. Recuerde usar este comando dentro de ./client y dentro de ./api.
+
+npm install
+
+🚧 Ejecutar local
+
+<hr>
+
+-Back end: Dentro de ./api
+
+npm start
+
+-Front end: Dentro de ./client
+
+npm start
+
+<hr>
+
+🤩 Espero que lo disfruten!!
+
+💬 Mi info de contacto:
+
+<hr>
+
+[E-mail](luciadanielaradwanski@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lradw/)
